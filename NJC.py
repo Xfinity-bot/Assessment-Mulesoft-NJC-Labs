@@ -1,4 +1,4 @@
-#Sriganesh ,St Joseph Engineering College Mangalore
+#Sriganesh ,St Joseph Engineering College Mangaluru
 import sqlite3 as db
 from sqlite3 import Error
 
